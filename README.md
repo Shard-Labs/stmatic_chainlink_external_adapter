@@ -1,8 +1,8 @@
-# StMATIC Price Chainlink External Adapter
+# StMATIC Price-Chainlink External Adapter
 
 The stMatic is a liquidity staking token for **Polygon** chain. The adapter calculate the stMATIC token price using on chain data [Matic USDC](https://polygonscan.com/address/0xAB594600376Ec9fD91F8e885dADF0CE036862dE0#readContract) and the [stMATIC<>MATIC](https://polygonscan.com/address/0xdEd6C522d803E35f65318a9a4d7333a22d582199#readContract) ratio.
 
-<br/>For more details you can check the following links:
+<br/>For more details about the Lido On Polygon project, check the following links:
 - [Lido On Polygon Dapp](https://polygon.lido.fi/)<br/>
 - [Project Repo](https://github.com/Shard-Labs/PoLido)<br/>
 - [Documentation](https://docs.polygon.lido.fi/)<br/>
